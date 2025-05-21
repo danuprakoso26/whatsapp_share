@@ -52,6 +52,7 @@ android {
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
+    namespace 'com.example.example'
 
     buildTypes {
         release {
